@@ -9,6 +9,6 @@ The `src` directory contains basic files created on the basis of the sample repo
 For an example of usage, see our project report: https://github.com/RujalAcharya/HeadBall/tree/main/report/src
 
 Finally, thanks to these colleagues of mine for their invaluable contribution on making this template even better:
-	* Asmin Silwal (@silwalasmin)
-	* Rujal Acharya (@RujalAcharya)
-	* Sanjay KC (@Sanjay-kc)
+* Asmin Silwal - @silwalasmin
+* Rujal Acharya - @RujalAcharya
+* Sanjay KC - @Sanjay-kc
