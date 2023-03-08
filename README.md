@@ -6,9 +6,9 @@ LaTeX template for project report/proposal, esp. for TU/IOE projects. Follows th
 
 ---
 
-I had created this template for our own C++ project report. We preferred using LaTeX to normal word document because it seemed it would be much faster and easier to work with LaTeX, and also easy to customize what we wanted. That assumption was indeed true.
+We created this template for our own C++ project report. We preferred using LaTeX to normal word document because it seemed it would be much faster and easier to work with LaTeX, and also easy to customize what we wanted. That assumption was indeed true.
 
-The `src` directory contains basic files created on the basis of the sample report provided by our department. However, I haven't included the guidelines for the sake of simplicity. To see the pdf document based on the basic setup, go to: [example_main.pdf](./example_main.pdf)
+The `src` directory contains basic files created on the basis of the sample report provided by our department. However, the report isn't included here. To see the compiled pdf document, go to: [example_main.pdf](./example_main.pdf)
 
 *NOTE:* You should use either XeLaTeX or LuaLaTeX as compiler. The recommended tool/website for working with these files is [Overleaf](https://overleaf.com), which simplifies the process of package management and also makes it really easy to collaborate with colleagues.
 
